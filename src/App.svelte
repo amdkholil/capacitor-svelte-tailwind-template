@@ -6,5 +6,4 @@
 <Router {routes} />
 
 <style @global>
-
 </style>
