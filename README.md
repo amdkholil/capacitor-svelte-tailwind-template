@@ -19,7 +19,7 @@ This is a project template for [Svelte](https://svelte.dev) + [CapacitorJS](http
 Install the dependencies...
 
 ```bash
-git clone "https://github.com/drannex42/svelte-capacitor.git"
+git clone "amdkholil/capacitor-svelte-tailwind-template"
 cd svelte-capacitor
 npm install
 ```
@@ -107,4 +107,7 @@ I would love to keep a collection of all the projects using this!
 
 -----
 
-This template was created by [t. Macleod Sawyer](https://macleodsawyer.com/) of [DNX Robotics](https://dnxrobotics.com) - [Source can be found here](https://github.com/drannex42/svelte-capacitor)
+This template was created by [t. Macleod Sawyer](https://macleodsawyer.com/) of [DNX Robotics](https://dnxrobotics.com)
+and modified by [amdkholil](https://kholil.com)
+[Source can be found here](https://github.com/drannex42/svelte-capacitor)
+
